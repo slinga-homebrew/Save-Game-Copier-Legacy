@@ -5,3 +5,4 @@ Save Game Copier was my entry to the 2003 Segaxtreme Saturn Homebrew contest. It
 ![Menu](menu.png)
 ![Screenshot 1](cdtointernal.png)
 ![Screenshot 2](floppymenu.png)
+![credits](credits.png)
